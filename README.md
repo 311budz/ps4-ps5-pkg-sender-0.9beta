@@ -125,4 +125,4 @@ Built with **Jetpack Compose (Material 3)**, the app features full support for *
 
 * **Developer / Creator:** **311Budz**
 * **App Name:** PS4 & PS5 PKG Sender
-* **Version:** 1.0
+* **Version:** 0.9 beta
